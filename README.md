@@ -2,7 +2,23 @@
 
 Welcome to my GitHub profile! I'm an **AI & Data Analytics graduate** from JAMK (Jyväskylän ammattikorkeakoulu), Finland, passionate about building machine learning solutions and deriving insights from data.
 
-AI & Data Analytics graduate (JAMK, Finland). Working with Python, pandas, NumPy, PyTorch, TensorFlow, and scikit-learn on machine learning, deep learning, and time series forecasting projects.
+**AI & Data Analytics graduate (JAMK, Finland).** Working with **Python**, **pandas**, **NumPy**, **PyTorch**, **TensorFlow**, and **scikit-learn** on machine learning, deep learning, and time series forecasting projects.
+
+**Key skills**
+- Machine learning & deep learning (PyTorch, TensorFlow, scikit-learn)
+- Time series forecasting & predictive modeling
+- Data wrangling & analysis (pandas, NumPy)
+- Data visualization (Matplotlib, Seaborn, Plotly)
+- Model evaluation, optimization, and basic MLOps
+- Tools: Jupyter Notebook, Git, SQL
+
+**Selected projects**
+- E-commerce customer behavior analysis — purchase & delivery insights
+- Visual insights & correlation analysis on fuel efficiency — visualization & correlation work
+
+**Contact & Links**
+- Location: Finland
+- LinkedIn: https://www.linkedin.com/in/sanjida-provati-6b3047109
 
 ---
 
