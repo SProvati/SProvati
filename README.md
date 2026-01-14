@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm an **AI & Data Analytics graduate** from JAMK (Jyväskylän ammattikorkeakoulu), Finland, passionate about building machine learning solutions and deriving insights from data.
 
+AI & Data Analytics graduate (JAMK, Finland). Working with Python, pandas, NumPy, PyTorch, TensorFlow, and scikit-learn on machine learning, deep learning, and time series forecasting projects.
+
 ---
 
 ## 🎯 About Me
