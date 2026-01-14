@@ -1,4 +1,4 @@
-# Hello, I'm Sanjay Provati 👋
+# Hello, I'm Sanjida Provati 👋
 
 Welcome to my GitHub profile! I'm an **AI & Data Analytics graduate** from JAMK (Jyväskylän ammattikorkeakoulu), Finland, passionate about building machine learning solutions and deriving insights from data.
 
